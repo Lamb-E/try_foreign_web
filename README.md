@@ -2,8 +2,9 @@
 梯子推荐
 VPN老是被墙，这里开一个文档记录一下我用过的VPN
 
-98专线:[https://98ka.men/#/register?code=Zck4hl3s]
+1、98专线:[https://98ka.men/#/register?code=Zck4hl3s]（如果这个打不开，后面还有几个链接可以试试）
 用了还蛮久，从22年到现在居然还没跑路，性价比很高蛮便宜。但是之前一直使用的超便宜套餐没有了。
+优点：稳定、不限设备数目（200G/月一般用不完，所以我是找了小伙伴一起拼的）
 
 <img width="570" alt="image" src="https://github.com/Lamb-E/try_foreign_web/assets/92961176/901ba496-1629-4b4d-a5cc-9133d88d2902">
 原5元套餐
