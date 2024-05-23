@@ -16,4 +16,12 @@ VPN老是被墙，这里开一个文档记录一下我用过的VPN
 
 链接如下[https://98ka.men/#/register?code=Zck4hl3s]
 
+如果这个链接打不开，可以试试这几个，使用邀请码Zck4hl3s注册好像有优惠：
+最新大陆网址: https://dream.sstea.men
+海外网址: https://98ka.men (固定)
+防失联网址: https://github.com/i2ii/i
+邀请码：Zck4hl3s
+
+
+
 
