@@ -3,7 +3,19 @@
 VPN老是被墙，这里开一个文档记录一下我用过的VPN
 
 1、98专线:[https://98ka.men/#/register?code=Zck4hl3s]（如果这个打不开，后面还有几个链接可以试试）
+
+如果这个链接打不开，可以试试这几个，使用邀请码Zck4hl3s注册好像有优惠：
+
+最新大陆网址: https://dream.sstea.men
+
+海外网址: https://98ka.men (固定)
+
+防失联网址: https://github.com/i2ii/i
+
+邀请码：Zck4hl3s
+
 用了还蛮久，从22年到现在居然还没跑路，性价比很高蛮便宜。但是之前一直使用的超便宜套餐没有了。
+
 优点：稳定、不限设备数目（200G/月一般用不完，所以我是找了小伙伴一起拼的）
 
 <img width="570" alt="image" src="https://github.com/Lamb-E/try_foreign_web/assets/92961176/901ba496-1629-4b4d-a5cc-9133d88d2902">
@@ -17,14 +29,7 @@ VPN老是被墙，这里开一个文档记录一下我用过的VPN
 
 链接如下[https://98ka.men/#/register?code=Zck4hl3s]
 
-如果这个链接打不开，可以试试这几个，使用邀请码Zck4hl3s注册好像有优惠：
-最新大陆网址: https://dream.sstea.men
 
-海外网址: https://98ka.men (固定)
-
-防失联网址: https://github.com/i2ii/i
-
-邀请码：Zck4hl3s
 
 
 
