@@ -17,7 +17,7 @@ IOS下载 http://mgjs.vip/ios/gtpc
 这个我朋友用了四年了一直很流畅未跑路。好处是不限流量，缺点是限制四个设备。有自己的独立app.
 
 
-2、98专线:[https://98ka.men/#/register?code=Zck4hl3s]（如果这个打不开，后面还有几个链接可以试试）
+2、98专线:[https://98ka.men/#/register?code=Zck4hl3s]
 
 用了还蛮久，从22年到现在居然还没跑路，性价比很高蛮便宜。但是之前一直使用的超便宜套餐没有了。
 
