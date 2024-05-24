@@ -1,18 +1,23 @@
 # try_foreign_web
 梯子推荐
-VPN老是被墙，这里开一个文档记录一下我用过的VPN
+VPN老是被墙，这里开一个文档记录一下我用过还算稳定的VPN
+1、芒果VPN
+2、98专线
 
-1、98专线:[https://98ka.men/#/register?code=Zck4hl3s]（如果这个打不开，后面还有几个链接可以试试）
+1、芒果VPN
 
-如果这个链接打不开，可以试试这几个，使用邀请码Zck4hl3s注册好像有优惠：
+官网链接 http://mgjs.vip/gtpc
 
-最新大陆网址: https://dream.sstea.men
+PC端下载 http://mgjs.vip/pc/gtpc
 
-海外网址: https://98ka.men (固定)
+IOS下载 http://mgjs.vip/ios/gtpc
 
-防失联网址: https://github.com/i2ii/i
+安卓下载 http://mgjs.vip/az/gtpc
 
-邀请码：Zck4hl3s
+这个我朋友用了四年了一直很流畅未跑路。好处是不限流量，缺点是限制四个设备。有自己的独立app.
+
+
+2、98专线:[https://98ka.men/#/register?code=Zck4hl3s]（如果这个打不开，后面还有几个链接可以试试）
 
 用了还蛮久，从22年到现在居然还没跑路，性价比很高蛮便宜。但是之前一直使用的超便宜套餐没有了。
 
@@ -28,6 +33,14 @@ VPN老是被墙，这里开一个文档记录一下我用过的VPN
 <img width="768" alt="image" src="https://github.com/Lamb-E/try_foreign_web/assets/92961176/1d67aeea-506e-4324-ba4f-9b6608dc514c">
 
 链接如下[https://98ka.men/#/register?code=Zck4hl3s]
+如果这个链接打不开，可以试试这几个，使用邀请码Zck4hl3s注册好像有优惠：
+
+最新大陆网址: [https://dream.sstea.men](https://dream.sstea.men/#/register?code=Zck4hl3s)
+
+邀请码：Zck4hl3s
+
+
+
 
 
 
